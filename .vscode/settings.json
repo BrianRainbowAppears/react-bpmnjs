@@ -1,0 +1,6 @@
+{
+  //配置@的路径提示
+  "path-autocomplete.pathMappings": {
+    "@": "${folder}/src"
+  }
+}
